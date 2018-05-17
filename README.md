@@ -1,2 +1,5 @@
 # Udacity_simulator
-download
+extract the file by the folllowing command
+```
+cat beta-simulator-mac.tar.gz.part* | tar xz
+```
